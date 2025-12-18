@@ -78,8 +78,4 @@ Notification & message icons
 
 🔗 Backend API integration
 
-👩‍💻 Author
 
-Nithya (Ammu)
-BSc Computer Science Graduate
-Web Developer | React | JavaScript | PHP | Python
