@@ -1,0 +1,40 @@
+.product-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.product-header h2 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.product-actions {
+  display: flex;
+  gap: 14px;
+}
+
+.btn {
+  padding: 8px 14px;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border-radius: 8px;
+}
+
+.btn.primary {
+  background: #4f46e5;
+  color: #fff;
+  border: 1px solid #e5e7eb;
+
+
+}
+
+.btn.light {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+}
+
