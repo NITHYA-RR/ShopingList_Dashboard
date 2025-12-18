@@ -1,16 +1,85 @@
-# React + Vite
+📊 Fixoria Sales Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive sales dashboard built using React (Vite) that provides an intuitive sidebar navigation, header with search & notifications, and expandable menu sections for managing store operations, analytics, and sales channels.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Responsive Sidebar with hamburger menu (mobile support)
 
-## React Compiler
+🔽 Expandable / Collapsible Menus (My Store, Finance, Analytics)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔔 Header with Search, Notifications & Messages
 
-## Expanding the ESLint configuration
+🎨 Clean and modern UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧭 Smooth navigation layout
+
+🧩 Component-based architecture
+
+🛠️ Tech Stack
+
+Frontend: React.js (Vite)
+
+Styling: CSS3
+
+Icons: Font Awesome
+
+State Management: React Hooks (useState)
+
+## 🖼️ Screenshots
+
+### Dashboard View
+![Dashboard](Screenshot/Dashboard.png)
+
+⚙️ Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/your-username/fixoria-sales-dashboard.git
+
+Navigate to project directory
+
+cd fixoria-sales-dashboard
+
+Install dependencies
+
+npm install
+
+Run the development server
+
+npm run dev
+🖥️ Screens Overview
+
+Sidebar
+
+Home
+
+My Store (Products, Orders, Inventory, Discount)
+
+Finance (Payments, Invoices, Taxes)
+
+Analytics (Sales Report, User Stats, Performance)
+
+Customers & Settings
+
+Header
+
+Search bar
+
+Notification & message icons
+
+📌 Future Enhancements
+
+🔐 Authentication & Role-based access
+
+📊 Dynamic charts & analytics
+
+🌙 Dark mode
+
+🔗 Backend API integration
+
+👩‍💻 Author
+
+Nithya (Ammu)
+BSc Computer Science Graduate
+Web Developer | React | JavaScript | PHP | Python
