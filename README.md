@@ -35,8 +35,7 @@ State Management: React Hooks (useState)
 
 Clone the repository
 
-git clone https://github.com/your-username/fixoria-sales-dashboard.git
-
+git clone https://github.com/NITHYA-RR/ShopingList_Dashboard
 Navigate to project directory
 
 cd fixoria-sales-dashboard
